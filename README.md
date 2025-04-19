@@ -46,11 +46,3 @@ hasil_ocr.txt
 
 - `--psm 6` tells Tesseract to assume a single uniform block of text.
 - This script is ideal for quick OCR testing in Jupyter Notebooks or Colab.
-
-## 📄 License
-
-MIT License. Feel free to use, modify, and share!
-
----
-
-Happy OCR-ing! 🧐
